@@ -1,0 +1,294 @@
+[
+  {
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:oak_fence",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:oak_fence",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:oak_fence",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:oak_fence",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:oak_fence",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:oak_fence",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:oak_fence",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:oak_fence",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 2,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 3,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 2,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 3,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "z": 2,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "z": 3,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "z": 2,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "z": 3,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 2,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 3,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:white_wool",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:campfire",
+    "properties": {
+      "lit": "true",
+      "signal_fire": "false",
+      "waterlogged": "false",
+      "facing": "north"
+    }
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:red_bed",
+    "properties": {
+      "facing": "south",
+      "part": "foot",
+      "occupied": "false"
+    }
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:red_bed",
+    "properties": {
+      "facing": "south",
+      "part": "head",
+      "occupied": "false"
+    }
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:crafting_table",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:furnace",
+    "properties": {
+      "facing": "north",
+      "lit": "false"
+    }
+  },
+  {
+    "x": 2,
+    "y": 1,
+    "z": 2,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "true",
+      "waterlogged": "false"
+    }
+  }
+]

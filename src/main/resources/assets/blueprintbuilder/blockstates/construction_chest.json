@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blueprintbuilder:block/construction_chest"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "medieval_cottage",
+  "name": "Medieval Cottage",
+  "description": "A compact timber cottage with a pitched spruce roof, glass windows, and room for a bed.",
+  "category": "Houses",
+  "structure": "blueprintbuilder:medieval_cottage"
+}
