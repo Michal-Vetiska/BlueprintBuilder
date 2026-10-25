@@ -38,7 +38,7 @@ public class BlueprintLibraryScreen extends Screen {
     protected void init() {
         Minecraft minecraft = Minecraft.getInstance();
         if (minecraft.level != null) {
-            BlueprintRegistry.ensureLoaded(minecraft.getResourceManager(), minecraft.level.registryAccess());
+            BlueprintRegistry.ensureLoaded(ClientResources.manager(minecraft), minecraft.level.registryAccess());
         }
         blueprints.clear();
         blueprints.addAll(BlueprintRegistry.all());

@@ -1,0 +1,7 @@
+{
+  "id": "watchtower",
+  "name": "Watchtower",
+  "description": "A tall stone tower with a ladder, a railed gallery, and a pointed roof.",
+  "category": "Towers",
+  "structure": "blueprintbuilder:watchtower"
+}

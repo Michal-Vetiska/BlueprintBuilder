@@ -1,0 +1,7 @@
+{
+  "id": "timber_manor",
+  "name": "Timber Manor",
+  "description": "A two-storey jetty house with a porch, a hearth, and a dark gabled roof.",
+  "category": "Houses",
+  "structure": "blueprintbuilder:timber_manor"
+}

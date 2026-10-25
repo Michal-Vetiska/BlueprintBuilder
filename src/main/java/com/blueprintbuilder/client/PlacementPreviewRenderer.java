@@ -33,7 +33,7 @@ public final class PlacementPreviewRenderer {
         if (minecraft.level == null || minecraft.player == null || PlacementController.blueprintId() == null) {
             return;
         }
-        BlueprintRegistry.ensureLoaded(minecraft.getResourceManager(), minecraft.level.registryAccess());
+        BlueprintRegistry.ensureLoaded(ClientResources.manager(minecraft), minecraft.level.registryAccess());
         LoadedBlueprint blueprint = BlueprintRegistry.get(PlacementController.blueprintId());
         if (blueprint == null) {
             return;

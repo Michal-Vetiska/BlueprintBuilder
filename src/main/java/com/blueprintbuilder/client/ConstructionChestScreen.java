@@ -29,7 +29,7 @@ public class ConstructionChestScreen extends AbstractContainerScreen<Constructio
     protected void init() {
         super.init();
         if (minecraft != null && minecraft.level != null) {
-            BlueprintRegistry.ensureLoaded(minecraft.getResourceManager(), minecraft.level.registryAccess());
+            BlueprintRegistry.ensureLoaded(ClientResources.manager(minecraft), minecraft.level.registryAccess());
         }
     }
 
@@ -89,7 +89,7 @@ public class ConstructionChestScreen extends AbstractContainerScreen<Constructio
         if (menu.chest() == null || menu.chest().blueprintId() == null || minecraft == null || minecraft.level == null) {
             return null;
         }
-        BlueprintRegistry.ensureLoaded(minecraft.getResourceManager(), minecraft.level.registryAccess());
+        BlueprintRegistry.ensureLoaded(ClientResources.manager(minecraft), minecraft.level.registryAccess());
         return BlueprintRegistry.get(menu.chest().blueprintId());
     }
 

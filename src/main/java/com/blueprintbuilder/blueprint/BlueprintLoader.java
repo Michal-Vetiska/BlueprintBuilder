@@ -31,7 +31,6 @@ import net.minecraft.nbt.Tag;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.packs.resources.Resource;
 import net.minecraft.server.packs.resources.ResourceManager;
-import net.minecraft.SharedConstants;
 import net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate;
 
 /**
@@ -43,7 +42,16 @@ public final class BlueprintLoader {
     }
 
     public static @Nullable LoadedBlueprint loadDefinition(ResourceLocation file, Resource resource, ResourceManager resources, HolderLookup.Provider registries) {
-        try (InputStreamReader reader = new InputStreamReader(resource.open(), StandardCharsets.UTF_8)) {
+        try (InputStream input = resource.open()) {
+            return loadDefinition(file, input, resources, registries);
+        } catch (IOException exception) {
+            BlueprintBuilderMod.LOGGER.error("Failed to read blueprint definition {}", file, exception);
+            return null;
+        }
+    }
+
+    public static @Nullable LoadedBlueprint loadDefinition(ResourceLocation file, InputStream input, ResourceManager resources, HolderLookup.Provider registries) {
+        try (InputStreamReader reader = new InputStreamReader(input, StandardCharsets.UTF_8)) {
             JsonObject json = JsonParser.parseReader(reader).getAsJsonObject();
             String rawId = json.get("id").getAsString();
             ResourceLocation id = rawId.contains(":")
@@ -81,14 +89,14 @@ public final class BlueprintLoader {
     private static List<TemplateBlock> readStructure(ResourceManager resources, HolderLookup.Provider registries, ResourceLocation structureId) {
         ResourceLocation nbtFile = ResourceLocation.fromNamespaceAndPath(structureId.getNamespace(), "structure/" + structureId.getPath() + ".nbt");
         CompoundTag tag = readNbt(resources, nbtFile);
-        if (tag == null) {
-            tag = synthesize(resources, structureId, registries);
+        if (tag == null || !acceptTemplate(registries, structureId, tag)) {
+            CompoundTag synthesized = synthesize(resources, structureId, registries);
+            if (synthesized != null && acceptTemplate(registries, structureId, synthesized)) {
+                tag = synthesized;
+            }
         }
-        if (tag == null) {
+        if (tag == null || !acceptTemplate(registries, structureId, tag)) {
             BlueprintBuilderMod.LOGGER.error("Missing structure {} and no block-list fallback was found", structureId);
-            return List.of();
-        }
-        if (!acceptTemplate(registries, structureId, tag)) {
             return List.of();
         }
         return blocksFromTag(tag);
@@ -106,11 +114,10 @@ public final class BlueprintLoader {
     }
 
     private static @Nullable CompoundTag readNbt(ResourceManager resources, ResourceLocation file) {
-        var optional = resources.getResource(file);
-        if (optional.isEmpty()) {
-            return null;
-        }
-        try (InputStream input = optional.get().open()) {
+        try (InputStream input = open(resources, file)) {
+            if (input == null) {
+                return null;
+            }
             return NbtIo.readCompressed(input, NbtAccounter.unlimitedHeap());
         } catch (IOException exception) {
             BlueprintBuilderMod.LOGGER.error("Could not read structure NBT {}", file, exception);
@@ -118,13 +125,33 @@ public final class BlueprintLoader {
         }
     }
 
+    /**
+     * The client resource manager only sees assets. Blueprint files live in the data pack,
+     * so a missing pack entry falls back to the copy bundled inside the mod jar.
+     */
+    static @Nullable InputStream open(ResourceManager resources, ResourceLocation file) throws IOException {
+        var optional = resources.getResource(file);
+        if (optional.isPresent()) {
+            return optional.get().open();
+        }
+        return BlueprintLoader.class.getResourceAsStream("/data/" + file.getNamespace() + "/" + file.getPath());
+    }
+
     private static @Nullable CompoundTag synthesize(ResourceManager resources, ResourceLocation structureId, HolderLookup.Provider registries) {
         ResourceLocation jsonFile = ResourceLocation.fromNamespaceAndPath(structureId.getNamespace(), "blueprint/" + structureId.getPath() + ".blocks.json");
-        var optional = resources.getResource(jsonFile);
-        if (optional.isEmpty()) {
+        try (InputStream input = open(resources, jsonFile)) {
+            if (input == null) {
+                return null;
+            }
+            return readBlockList(jsonFile, input);
+        } catch (IOException | RuntimeException exception) {
+            BlueprintBuilderMod.LOGGER.error("Could not read block list {}", jsonFile, exception);
             return null;
         }
-        try (InputStreamReader reader = new InputStreamReader(optional.get().open(), StandardCharsets.UTF_8)) {
+    }
+
+    private static @Nullable CompoundTag readBlockList(ResourceLocation jsonFile, InputStream input) {
+        try (InputStreamReader reader = new InputStreamReader(input, StandardCharsets.UTF_8)) {
             JsonArray array = JsonParser.parseReader(reader).getAsJsonArray();
             List<TemplateBlock> blocks = new ArrayList<>();
             int maxX = 0;
@@ -147,7 +174,7 @@ public final class BlueprintLoader {
                 maxY = Math.max(maxY, y);
                 maxZ = Math.max(maxZ, z);
             }
-            BlueprintBuilderMod.LOGGER.warn("Structure NBT for {} was missing. Built a template from {}", structureId, jsonFile);
+            BlueprintBuilderMod.LOGGER.warn("Structure NBT was missing. Built a template from {}", jsonFile);
             return toStructureTag(blocks, maxX + 1, maxY + 1, maxZ + 1);
         } catch (IOException | RuntimeException exception) {
             BlueprintBuilderMod.LOGGER.error("Could not read block list {}", jsonFile, exception);

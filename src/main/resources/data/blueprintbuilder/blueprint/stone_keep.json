@@ -1,0 +1,7 @@
+{
+  "id": "stone_keep",
+  "name": "Stone Keep",
+  "description": "A square stone keep with corner towers, a gated curtain wall, and a courtyard.",
+  "category": "Castles",
+  "structure": "blueprintbuilder:stone_keep"
+}

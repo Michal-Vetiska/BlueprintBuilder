@@ -1,0 +1,8159 @@
+[
+  {
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 1,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 3,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 5,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 7,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 9,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:mossy_cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 11,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 13,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 15,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 0,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:spruce_door",
+    "properties": {
+      "half": "lower",
+      "facing": "south",
+      "hinge": "right",
+      "open": "false",
+      "powered": "false"
+    }
+  },
+  {
+    "x": 8,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:spruce_door",
+    "properties": {
+      "half": "lower",
+      "facing": "south",
+      "hinge": "left",
+      "open": "false",
+      "powered": "false"
+    }
+  },
+  {
+    "x": 9,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 1,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 1,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 3,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 1,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 1,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 6,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 1,
+    "z": 6,
+    "block": "minecraft:campfire",
+    "properties": {
+      "facing": "south",
+      "lit": "true",
+      "signal_fire": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "z": 6,
+    "block": "minecraft:chest",
+    "properties": {
+      "facing": "west",
+      "type": "single",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 6,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 7,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 1,
+    "z": 7,
+    "block": "minecraft:cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 1,
+    "z": 7,
+    "block": "minecraft:cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 1,
+    "z": 7,
+    "block": "minecraft:cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 1,
+    "z": 7,
+    "block": "minecraft:anvil",
+    "properties": {
+      "facing": "north"
+    }
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "z": 7,
+    "block": "minecraft:furnace",
+    "properties": {
+      "facing": "west",
+      "lit": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 7,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 8,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 1,
+    "z": 8,
+    "block": "minecraft:cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 1,
+    "z": 8,
+    "block": "minecraft:cauldron",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 1,
+    "z": 8,
+    "block": "minecraft:cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 1,
+    "z": 8,
+    "block": "minecraft:barrel",
+    "properties": {
+      "facing": "up",
+      "open": "false"
+    }
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "z": 8,
+    "block": "minecraft:blast_furnace",
+    "properties": {
+      "facing": "west",
+      "lit": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 8,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 9,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 1,
+    "z": 9,
+    "block": "minecraft:cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 1,
+    "z": 9,
+    "block": "minecraft:cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 1,
+    "z": 9,
+    "block": "minecraft:cobblestone",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 9,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 10,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 10,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 1,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 1,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 14,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 1,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 15,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 1,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:spruce_door",
+    "properties": {
+      "half": "upper",
+      "facing": "south",
+      "hinge": "right",
+      "open": "false",
+      "powered": "false"
+    }
+  },
+  {
+    "x": 8,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:spruce_door",
+    "properties": {
+      "half": "upper",
+      "facing": "south",
+      "hinge": "left",
+      "open": "false",
+      "powered": "false"
+    }
+  },
+  {
+    "x": 9,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:wall_torch",
+    "properties": {
+      "facing": "south"
+    }
+  },
+  {
+    "x": 10,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:wall_torch",
+    "properties": {
+      "facing": "south"
+    }
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 1,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 2,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 2,
+    "z": 5,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 11,
+    "y": 2,
+    "z": 5,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 6,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 6,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 7,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 7,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 8,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 8,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 9,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 9,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 10,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 10,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 2,
+    "z": 11,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 11,
+    "y": 2,
+    "z": 11,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 13,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 15,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 2,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 15,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 2,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 3,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 6,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 7,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:iron_bars",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 8,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:iron_bars",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 9,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 11,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 15,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 3,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 3,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 2,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 2,
+    "y": 3,
+    "z": 2,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 3,
+    "z": 2,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 2,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 5,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 6,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 6,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 7,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 7,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 8,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 8,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 9,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 9,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 10,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 10,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 11,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 13,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 13,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 14,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 2,
+    "y": 3,
+    "z": 14,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 3,
+    "z": 14,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 14,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 3,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 15,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 3,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 3,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 7,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 11,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 15,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 3,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:chiseled_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:chiseled_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:blue_wall_banner",
+    "properties": {
+      "facing": "south"
+    }
+  },
+  {
+    "x": 9,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:white_wall_banner",
+    "properties": {
+      "facing": "south"
+    }
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 5,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 6,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 6,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 7,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 7,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 8,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 8,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 9,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 9,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 10,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 10,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 11,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 11,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 4,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 1,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 5,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 5,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 3,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 5,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 5,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 6,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 6,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 7,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 7,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 8,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 8,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 9,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 9,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 10,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 10,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 11,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 11,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 14,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 5,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 15,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 5,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 5,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 7,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 9,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 11,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 5,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 3,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 15,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 6,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 1,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 6,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 2,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 2,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 2,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 6,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 8,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 10,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 13,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 14,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 14,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "true",
+      "south": "true",
+      "east": "false",
+      "west": "false",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 6,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 6,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 15,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 3,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 6,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 8,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 10,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:glass_pane",
+    "properties": {
+      "north": "false",
+      "south": "false",
+      "east": "true",
+      "west": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 15,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 6,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 7,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 7,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 7,
+    "z": 2,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 7,
+    "z": 2,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 2,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 3,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 13,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 7,
+    "z": 14,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 14,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 7,
+    "z": 14,
+    "block": "minecraft:lantern",
+    "properties": {
+      "hanging": "true",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 7,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 7,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 7,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 0,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "south",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 1,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 2,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 3,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 4,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 12,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 13,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 14,
+    "block": "minecraft:mossy_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:oak_planks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:ladder",
+    "properties": {
+      "facing": "north",
+      "waterlogged": "false"
+    }
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 15,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 1,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 3,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 13,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:cracked_stone_bricks",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 8,
+    "z": 16,
+    "block": "minecraft:deepslate_bricks",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 9,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 9,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 9,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 9,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 9,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 9,
+    "z": 0,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 9,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 9,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 9,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 9,
+    "z": 2,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 9,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 9,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 9,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 9,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 9,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 9,
+    "z": 4,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 9,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 9,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 9,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 9,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 9,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 9,
+    "z": 12,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 9,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 9,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 9,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 9,
+    "z": 14,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 0,
+    "y": 9,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 2,
+    "y": 9,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 4,
+    "y": 9,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 12,
+    "y": 9,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 14,
+    "y": 9,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  },
+  {
+    "x": 16,
+    "y": 9,
+    "z": 16,
+    "block": "minecraft:cobbled_deepslate",
+    "properties": {}
+  }
+]

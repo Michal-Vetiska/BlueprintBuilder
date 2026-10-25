@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
-"""Write Minecraft structure NBT files for the demo cottage and construction camp.
+"""Write Minecraft structure NBT files for the bundled blueprints.
 
-The block lists in this file are the authoring source. The script emits gzip NBT
-that Minecraft's structure template loader understands, plus a JSON fallback
-the mod can compile into the same template when the NBT is absent.
+The block lists in this file and in buildings.py are the authoring source.
+The script emits gzip NBT that Minecraft's structure template loader understands,
+plus a JSON fallback the mod can compile into the same template when the NBT is absent.
 """
 
 import gzip
 import json
 import struct
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from buildings import hill_windmill, stone_keep, timber_manor, watchtower
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "src" / "main" / "resources" / "data" / "blueprintbuilder"
@@ -193,6 +198,10 @@ def main():
     structures = {
         "medieval_cottage": cottage(),
         "construction_camp": camp(),
+        "stone_keep": stone_keep(),
+        "timber_manor": timber_manor(),
+        "watchtower": watchtower(),
+        "hill_windmill": hill_windmill(),
     }
     for name, blocks in structures.items():
         write_nbt(blocks, DATA / "structure" / f"{name}.nbt")

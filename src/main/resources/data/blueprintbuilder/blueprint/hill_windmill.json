@@ -1,0 +1,7 @@
+{
+  "id": "hill_windmill",
+  "name": "Hill Windmill",
+  "description": "A stone mill with a timber cap and long cloth sails across the front.",
+  "category": "Mills",
+  "structure": "blueprintbuilder:hill_windmill"
+}
